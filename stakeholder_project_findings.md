@@ -15,7 +15,7 @@ After deep analysis of Soappboxx's vision documents, HP's real-world implementat
 
 ### Why This Framework Matters
 
-The uploaded HP "Process for Successful Stakeholder Relations" isn't just a corporate playbook—it's a validation of what stakeholder engagement actually looks like in high-stakes scenarios. HP used this exact framework during their $6.7B tariff exposure advocacy campaign, engaging everyone from President Trump to international trade ministers.
+The uploaded HP "Process for Successful Stakeholder Relations" isn't just a corporate playbook—it's a validation of what stakeholder engagement actually looks like in high-stakes scenarios. HP used this exact framework during their $6.7B tariff exposure advocacy campaign, engaging everyone from [Senior Government Official] to international trade ministers.
 
 ### The 10-Step Framework Decoded
 
@@ -178,7 +178,7 @@ HP's tariff advocacy involved:
 
 Todoist lets you type: "Follow up with Senator Banks tomorrow at 2pm #priority1"
 
-Our platform should let you type: "Schedule meeting with President Trump on Dec 10 @TomGeier #232tariffs #critical"
+Our platform should let you type: "Schedule meeting with [Senior Government Official] on Dec 10 @TomGeier #232tariffs #critical"
 
 **Result:** Auto-creates stakeholder interaction, assigns to Tom, tags with campaign, sets priority.
 
