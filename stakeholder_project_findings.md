@@ -78,210 +78,52 @@ This is the **shared value philosophy** that Soappboxx emphasizes. Our platform 
 
 ---
 
-## The Three Frameworks Unified
 
-### Framework Comparison Matrix
+## Effective Stakeholder Engagement Process
 
-| Phase | [Company] (10 Steps) | Soappboxx (12 Steps) | Our Platform Needs |
-|-------|--------------|---------------------|-------------------|
-| **Define** | 1-2: Business Goals, Issues | 1-4: Goals, Issues, ID, Priority | Goal Setting Module, Issue Tracker |
-| **Prepare** | 3-6: ID, Priority, Landscape, Alignment | 5-8: Landscape, Alignment, Research, Modeling | Stakeholder Map, Team Collab, Research Hub |
-| **Act** | 7-8: Campaign, Engagement | 9-11: Campaign, Analysis, Collaboration | Campaign Manager, Real-time Analytics |
-| **Measure** | 9-10: Org Value, Shared Value | 12: Shared Value | Impact Dashboard, ROI Calculator |
+This is a strategic framework for organizations to effectively manage and strengthen relationships with key stakeholders. The process guides teams through identifying who matters most, understanding their needs and influence, and creating shared value through purposeful engagement. It's designed to help corporate affairs, government relations, community relations, and other teams coordinate efforts and measure impact. This methodology forms the foundation of what the platform will help users execute and track.
 
-### The Synthesis: A Unified 10-Step Digital Workflow
+### PHASE 1: PURPOSE
 
-Based on all three frameworks, here's what our platform should actually implement:
+**STEP 1: Set Goals for Your Organization**
+- Define how stakeholder relations will support organizational goals and objectives
 
-#### MODULE 1: PURPOSE (Strategy)
-**Step 1: Define Goals**
-- Link to organizational objectives
-- Set success metrics
-- Assign executive sponsors
-- *Feature:* Goal template library with industry benchmarks
+**STEP 2: Issue Identification**
+- Assess current status of relationships with stakeholders and identify key issues
 
-**Step 2: Identify Issues**
-- Current relationship status
-- Threats and opportunities
-- Regulatory landscape
-- *Feature:* Issue radar with sentiment tracking
+**STEP 3: Stakeholder Identification**
+- Identify those with influence over business, message, credibility, and visibility
 
-#### MODULE 2: PLAN (Intelligence)
-**Step 3: Map Stakeholders**
-- Influence analysis
-- Interest assessment
-- Network relationships
-- *Feature:* Interactive stakeholder matrix (Influence x Interest)
+**STEP 4: Stakeholder Prioritization**
+- Prioritize those who pose greatest opportunity to impact the business or greatest risk to do harm
 
-**Step 4: Prioritize**
-- Risk/opportunity scoring
-- Resource allocation
-- Timeline planning
-- *Feature:* Predictive modeling (30+ sector formulas)
+### PHASE 2: PLAN
 
-**Step 5: Analyze Landscape**
-- Competitor analysis
-- Resource identification
-- Power dynamics
-- *Feature:* SWOT generator, resource mapper
+**STEP 5: Landscape Analysis**
+- Map the complete stakeholder landscape and identify necessary resources
 
-**Step 6: Align Teams**
-- Role assignment
-- Workflow design
-- Governance structure
-- *Feature:* Cross-functional workspace (Slack-like)
+**STEP 6: Cross-Functional Teams Alignment**
+- Align internal teams and establish governance for coordinated engagement
 
-#### MODULE 3: EXECUTE (Action)
-**Step 7: Launch Campaign**
-- Multi-channel outreach
-- Message testing
-- Feedback collection
-- *Feature:* Campaign builder with templates, email/social integration
+**STEP 7: Research & Listening Sessions**
+- Conduct research and listening sessions to understand stakeholder perspectives
 
-**Step 8: Engage Continuously**
-- Track interactions
-- Resolve issues
-- Build relationships
-- *Feature:* Engagement timeline, issue tracker, commitment log
+**STEP 8: Early Stakeholder Analysis & Modeling**
+- Analyze stakeholder data and create predictive models for engagement
 
-#### MODULE 4: CREATE VALUE (Impact)
-**Step 9: Measure Organizational Value**
-- Goal achievement
-- Risk mitigation
-- Opportunity realization
-- *Feature:* ROI dashboard, scenario modeling
+### PHASE 3: EXECUTE
 
-**Step 10: Measure Shared Value**
-- Stakeholder satisfaction
-- Mutual benefit
-- Long-term partnership
-- *Feature:* Relationship health score, satisfaction surveys
+**STEP 9: Launch Campaign**
+- Launch purposeful communication where stakeholders can consume and provide feedback
 
----
+**STEP 10: Ongoing Stakeholder Analysis**
+- Continuously analyze stakeholder sentiment and relationship health
 
-## The Todoist Lens: Simplicity in Complexity
+**STEP 11: Collaborate With Stakeholders**
+- Engage directly with stakeholders on shared goals and resolve issues
 
-### The Paradox We Must Solve
-
-The organization's tariff advocacy involved:
-- 30+ high-level stakeholders
-- 15+ team members with different roles
-- 20+ parallel workstreams
-- Hundreds of tasks and commitments
-- Real-time status updates to executives
-
-**Yet the [Company] team needed to execute this with Todoist-level simplicity.**
-
-### What Todoist Teaches Us About Stakeholder Engagement
-
-**1. The Power of Natural Language**
-
-Todoist lets you type: "Follow up with Senator Banks tomorrow at 2pm #priority1"
-
-Our platform should let you type: "Schedule meeting with [Senior Government Official] on Dec 10 @TomGeier #232tariffs #critical"
-
-**Result:** Auto-creates stakeholder interaction, assigns to Tom, tags with campaign, sets priority.
-
-**2. The "Add Task" Everywhere Philosophy**
-
-In The organization's campaign, team members needed to log:
-- Meetings (from Outlook)
-- Emails (from Gmail)
-- Calls (from mobile)
-- Social media interactions (from Twitter/LinkedIn)
-- Internal discussions (from Slack)
-
-**Our solution:** "Quick Capture" button on every screen + browser extension + mobile app + Slack command
-
-**3. The Recurring Task Revelation**
-
-[Company] had recurring needs:
-- Weekly strategy meetings
-- Monthly stakeholder check-ins
-- Quarterly relationship reviews
-- Annual goal setting
-
-**Our solution:** "Recurring engagements" feature
-- "Touch base with Malaysia trade minister every 2 weeks"
-- "Send tariff update to alliance partners every Friday"
-- "Relationship health check for Priority 1 stakeholders monthly"
-
-### The Todoist Anti-Pattern We Must Avoid
-
-Todoist hides its multi-project view and sharing features. The organization's campaign required:
-- 5+ simultaneous campaigns (President, Commerce, Hill, Industry, International)
-- 15+ team members needing real-time visibility
-- Executive dashboards for leadership
-
-**We cannot hide collaboration.** It must be front and center.
-
----
-
-## The Slack Lens: Collaboration at Scale
-
-### What Slack Teaches Us About Team Dynamics
-
-**1. The "Don't Make Me Think" Principle**
-
-Slack's product principle: "Don't make me think"
-
-Applied to stakeholder engagement:
-- Don't make me search for the last interaction with Senator Banks
-- Don't make me remember what campaign this stakeholder is tied to
-- Don't make me figure out who owns this relationship
-- Don't make me recreate context for a new team member
-
-**Solution:** Intelligent defaults, auto-linking, relationship inheritance
-
-**2. The Context Block Pattern**
-
-Slack uses "context blocks" for supplementary info that isn't primary content.
-
-Applied to stakeholder profiles:
-- **Primary:** Name, organization, position, relationship status
-- **Context:** Last interaction date, campaign tags, team assignments, influence score
-
-This reduces cognitive load while keeping critical info accessible.
-
-**3. The Progressive Disclosure Pattern**
-
-Slack shows:
-- Channel name (always visible)
-- Channel description (on hover)
-- Channel details (on click)
-- Channel settings (in overflow menu)
-
-Applied to stakeholder engagement:
-- **Always visible:** Stakeholder name, status, priority
-- **On hover:** Quick stats (interaction count, last touch, health score)
-- **On click:** Full profile with history
-- **In menu:** Advanced actions (merge, archive, export)
-
-**4. The Message Lifecycle Pattern**
-
-Slack messages are:
-- Visually rich when posted
-- Condensed after interaction
-- Updated when action completes
-
-Applied to stakeholder interactions:
-- **During campaign:** Full detail with active tasks
-- **After campaign:** Condensed summary
-- **On resolution:** Updated with outcome
-
-This keeps the timeline clean while preserving history.
-
-### The Slack Anti-Pattern We Must Avoid
-
-Slack's 2023 redesign added a double sidebar that confused users initially. They recovered by:
-- Extensive user testing
-- Gradual rollout
-- Clear onboarding
-- Feedback loops
-
-**Lesson:** Any complexity must be battle-tested before launch. Our stakeholder map visualization, predictive modeling, and multi-team workflows need dogfooding.
-
----
+**STEP 12: Realize Shared Value Where Possible**
+- Create and measure shared value outcomes for both organization and stakeholders
 
 ## Competitive Gap Analysis: Where Everyone Fails
 
