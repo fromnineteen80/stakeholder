@@ -93,10 +93,10 @@ This isn't a "stakeholder CRM" - this is a **reputation risk management and reve
 ### 4. HP Tariff Advocacy - Tactical Execution Details
 
 #### Named Executives & Roles:
-- **Enrique** - HP CEO doing 1:1 POTUS engagements
-- **Ernest** - Engaging BIS, OMB, Supply Chain Officers
-- **Tom Geier** - Campaign owner, Mercury/FG liaison
-- **Brittany Masalosalo** - Co-owner, Made-in-America engagement
+- **[CEO]** - HP CEO doing 1:1 [Head of State] engagements
+- **[Chief Strategy Officer]** - Engaging BIS, OMB, Supply Chain Officers
+- **[Campaign Owner]** - Campaign owner, Mercury/FG liaison
+- **[Government Relations Director]** - Co-owner, Made-in-America engagement
 
 **This reveals:** C-suite executives doing direct stakeholder engagement. Our platform must support executive-level workflows, not just manager-level.
 
@@ -104,10 +104,10 @@ This isn't a "stakeholder CRM" - this is a **reputation risk management and reve
 
 **Meeting Logistics:**
 - WAVES submission (White House security clearance)
-- Mercury and FG (external lobbying firms)
+- [external lobbying firms] (external lobbying firms)
 - Direct scheduler outreach
 - Briefing papers required for every meeting
-- "MinUS laptop" as a physical prop/gift
+- "[product demonstration]" as a physical prop/gift
 
 **Our platform needs:**
 - Meeting request tracking
@@ -226,7 +226,7 @@ After reading the PDFs, I now understand what makes this defensible:
 - **Our solution:** Campaign dashboard with multi-front view
 
 **Job 2: Managing Executive Time**
-- CEO doing POTUS meetings
+- CEO doing [Head of State] meetings
 - C-suite doing agency heads
 - Every meeting requires briefing, prep, follow-up
 - **Our solution:** Executive calendar integration + auto-briefing
