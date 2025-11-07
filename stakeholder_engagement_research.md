@@ -137,11 +137,11 @@ Negative Impact → Neutral → Positive Impact
 ### Multi-Stakeholder Engagement Matrix
 
 **High-Priority Stakeholders:**
-- President Trump (Owner: Tom Geier)
-- Secretary Lutnick (Commerce)
-- U/S Kessler (BIS)
-- Dir. Vought (OMB)
-- Senator Banks, Young, Crapo, Risch
+- [Senior Government Official] (Owner: [Campaign Owner])
+- [Agency Head - Commerce] (Commerce)
+- [Agency Head - BIS] (BIS)
+- [Agency Head - OMB] (OMB)
+- [Senate Leadership]
 
 **Engagement Dashboard:**
 - Owner assignment
