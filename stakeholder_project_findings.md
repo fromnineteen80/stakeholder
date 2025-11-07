@@ -7,15 +7,15 @@
 
 ## Executive Perspective
 
-After deep analysis of Soappboxx's vision documents, HP's real-world implementation framework, and 12+ competitive platforms, a clear pattern emerges: **the industry is fragmented between theoretically sophisticated tools and practically unusable interfaces**. Our opportunity lies in synthesizing the best of enterprise capability with consumer-grade simplicity.
+After deep analysis of Soappboxx's vision documents, The organization's real-world implementation framework, and 12+ competitive platforms, a clear pattern emerges: **the industry is fragmented between theoretically sophisticated tools and practically unusable interfaces**. Our opportunity lies in synthesizing the best of enterprise capability with consumer-grade simplicity.
 
 ---
 
-## The HP Framework: A Rosetta Stone for Stakeholder Engagement
+## The [Company] Framework: A Rosetta Stone for Stakeholder Engagement
 
 ### Why This Framework Matters
 
-The uploaded HP "Process for Successful Stakeholder Relations" isn't just a corporate playbook—it's a validation of what stakeholder engagement actually looks like in high-stakes scenarios. HP used this exact framework during their $6.7B tariff exposure advocacy campaign, engaging everyone from [Senior Government Official] to international trade ministers.
+The uploaded [Company] "Process for Successful Stakeholder Relations" isn't just a corporate playbook—it's a validation of what stakeholder engagement actually looks like in high-stakes scenarios. [Company] used this exact framework during their $[X]B tariff exposure advocacy campaign, engaging everyone from [Senior Government Official] to international trade ministers.
 
 ### The 10-Step Framework Decoded
 
@@ -25,7 +25,7 @@ PURPOSE (Define) → PLAN (Prepare) → EXECUTE (Act) → CREATE VALUE (Measure)
 
 This maps almost perfectly to Soappboxx's 12-step framework, but with crucial differences:
 
-**HP's Approach (Practical):**
+**The organization's Approach (Practical):**
 - Step 1-2: **PURPOSE** - Business goals + Issue identification
 - Step 3-6: **PLAN** - Stakeholder ID, prioritization, landscape analysis, internal alignment
 - Step 7-8: **EXECUTE** - Launch campaign + targeted engagement
@@ -38,7 +38,7 @@ This maps almost perfectly to Soappboxx's 12-step framework, but with crucial di
 
 ### Critical Insight #1: The "Team Assignment" Column
 
-HP's framework explicitly assigns ownership to teams:
+The organization's framework explicitly assigns ownership to teams:
 - **ELT** (Executive Leadership Team)
 - **CLT** (Corporate Leadership Team) 
 - **Business Unit**
@@ -53,7 +53,7 @@ HP's framework explicitly assigns ownership to teams:
 
 ### Critical Insight #2: The Iteration Loops
 
-Notice the HP framework has **refinement cycles**:
+Notice the [Company] framework has **refinement cycles**:
 - Step 7: "Refine campaign as needed"
 - Step 8: "Refine engagement as needed"
 
@@ -65,9 +65,9 @@ This isn't a linear process. It's a **continuous improvement loop**. Our platfor
 
 ### Critical Insight #3: The "Create Value" Endgame
 
-Most stakeholder platforms stop at engagement tracking. HP's framework goes further:
+Most stakeholder platforms stop at engagement tracking. The organization's framework goes further:
 
-**Step 9:** Measure value *for HP* (competitive advantage, future opportunities)  
+**Step 9:** Measure value *for [Company]* (competitive advantage, future opportunities)  
 **Step 10:** Measure value *for stakeholders* (mutual benefit, collaboration)
 
 This is the **shared value philosophy** that Soappboxx emphasizes. Our platform needs:
@@ -82,7 +82,7 @@ This is the **shared value philosophy** that Soappboxx emphasizes. Our platform 
 
 ### Framework Comparison Matrix
 
-| Phase | HP (10 Steps) | Soappboxx (12 Steps) | Our Platform Needs |
+| Phase | [Company] (10 Steps) | Soappboxx (12 Steps) | Our Platform Needs |
 |-------|--------------|---------------------|-------------------|
 | **Define** | 1-2: Business Goals, Issues | 1-4: Goals, Issues, ID, Priority | Goal Setting Module, Issue Tracker |
 | **Prepare** | 3-6: ID, Priority, Landscape, Alignment | 5-8: Landscape, Alignment, Research, Modeling | Stakeholder Map, Team Collab, Research Hub |
@@ -163,14 +163,14 @@ Based on all three frameworks, here's what our platform should actually implemen
 
 ### The Paradox We Must Solve
 
-HP's tariff advocacy involved:
+The organization's tariff advocacy involved:
 - 30+ high-level stakeholders
 - 15+ team members with different roles
 - 20+ parallel workstreams
 - Hundreds of tasks and commitments
 - Real-time status updates to executives
 
-**Yet the HP team needed to execute this with Todoist-level simplicity.**
+**Yet the [Company] team needed to execute this with Todoist-level simplicity.**
 
 ### What Todoist Teaches Us About Stakeholder Engagement
 
@@ -184,7 +184,7 @@ Our platform should let you type: "Schedule meeting with [Senior Government Offi
 
 **2. The "Add Task" Everywhere Philosophy**
 
-In HP's campaign, team members needed to log:
+In The organization's campaign, team members needed to log:
 - Meetings (from Outlook)
 - Emails (from Gmail)
 - Calls (from mobile)
@@ -195,7 +195,7 @@ In HP's campaign, team members needed to log:
 
 **3. The Recurring Task Revelation**
 
-HP had recurring needs:
+[Company] had recurring needs:
 - Weekly strategy meetings
 - Monthly stakeholder check-ins
 - Quarterly relationship reviews
@@ -208,7 +208,7 @@ HP had recurring needs:
 
 ### The Todoist Anti-Pattern We Must Avoid
 
-Todoist hides its multi-project view and sharing features. HP's campaign required:
+Todoist hides its multi-project view and sharing features. The organization's campaign required:
 - 5+ simultaneous campaigns (President, Commerce, Hill, Industry, International)
 - 15+ team members needing real-time visibility
 - Executive dashboards for leadership
@@ -486,8 +486,8 @@ Based on all research, here's the architecture:
 
 ### What Makes Us Defensible
 
-**1. The HP Methodology**
-- Proven in $6.7B campaign
+**1. The [Company] Methodology**
+- Proven in $[X]B campaign
 - Codified as software
 - Teachable to any team
 - Exclusive to us (open source the framework?)
@@ -522,7 +522,7 @@ Based on all research, here's the architecture:
 
 ### Who Buys This?
 
-Based on HP's team structure and Soappboxx's use cases:
+Based on The organization's team structure and Soappboxx's use cases:
 
 **Primary Buyer:** Chief Corporate Affairs Officer (or equivalent)  
 **Budget Holder:** COO or CEO  
@@ -843,7 +843,7 @@ Organizations lose billions in value due to poor stakeholder relationships. Curr
 
 **The Solution:**
 A purpose-built stakeholder engagement platform that combines:
-- HP's proven 10-step methodology
+- The organization's proven 10-step methodology
 - Todoist's radical simplicity
 - Slack's seamless collaboration
 - Soappboxx's predictive intelligence
